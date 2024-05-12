@@ -1,0 +1,496 @@
+0000.000 (0) Opened log file at time: Sun, 12 May 2024 06:13:11 +0000 on http://localhost/Brainyladder
+0000.011 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.3 WP: 6.5.3 PHP: 8.2.12 (apache2handler, Windows NT SHARMAJI 10.0 build 19045 (Windows 10) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 90.6M | 92M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+0000.013 (0) Free space on disk containing Updraft's temporary directory: 12170.5 MB
+0000.016 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.019 (0) Semaphore (fd, wp_options) being initialised
+0000.023 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.026 (0) Set semaphore last lock (fd) time to 2024-05-12 06:13:11
+0000.027 (0) Semaphore lock (fd) complete
+0000.031 (0) Backup run: resumption=0, nonce=41d99d0631da, file_nonce=41d99d0631da begun at=1715494391 (0s ago), job type=backup
+0000.033 (0) Scheduling a resumption (1) after 300 seconds (1715494691) in case this run gets aborted
+0000.042 (0) Checking if we have a zip executable available
+0000.045 (0) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0000.047 (0) Creation of backups of directories: beginning
+0000.053 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.862 (0) Total entities for the zip file: 1551 directories, 7739 files (0 skipped as non-modified), 137.2 MB
+0002.864 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 140455.5 KB, split: 409600 KB)
+0002.898 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.924 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.951 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.978 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0003.005 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0003.033 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0003.064 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0003.096 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0003.127 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0003.159 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0003.194 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 1100 files added (on-disk size: 0 KB)
+0003.224 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 1200 files added (on-disk size: 0 KB)
+0003.252 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 1300 files added (on-disk size: 0 KB)
+0003.282 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 1400 files added (on-disk size: 0 KB)
+0003.310 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 1500 files added (on-disk size: 0 KB)
+0003.338 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 1600 files added (on-disk size: 0 KB)
+0003.365 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 1700 files added (on-disk size: 0 KB)
+0003.393 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 1800 files added (on-disk size: 0 KB)
+0003.426 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 1900 files added (on-disk size: 0 KB)
+0003.457 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 2000 files added (on-disk size: 0 KB)
+0003.485 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 2100 files added (on-disk size: 0 KB)
+0003.514 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 2200 files added (on-disk size: 0 KB)
+0003.543 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 2300 files added (on-disk size: 0 KB)
+0003.571 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 2400 files added (on-disk size: 0 KB)
+0003.600 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 2500 files added (on-disk size: 0 KB)
+0003.629 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 2600 files added (on-disk size: 0 KB)
+0003.656 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 2700 files added (on-disk size: 0 KB)
+0003.684 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 2800 files added (on-disk size: 0 KB)
+0003.714 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 2900 files added (on-disk size: 0 KB)
+0003.742 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 3000 files added (on-disk size: 0 KB)
+0003.770 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 3100 files added (on-disk size: 0 KB)
+0003.799 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 3200 files added (on-disk size: 0 KB)
+0003.831 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 3300 files added (on-disk size: 0 KB)
+0003.860 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 3400 files added (on-disk size: 0 KB)
+0003.888 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 3500 files added (on-disk size: 0 KB)
+0003.917 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 3600 files added (on-disk size: 0 KB)
+0003.947 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 3700 files added (on-disk size: 0 KB)
+0003.974 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 3800 files added (on-disk size: 0 KB)
+0004.007 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 3900 files added (on-disk size: 0 KB)
+0004.037 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 4000 files added (on-disk size: 0 KB)
+0004.069 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 4100 files added (on-disk size: 0 KB)
+0004.099 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 4200 files added (on-disk size: 0 KB)
+0004.127 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 4300 files added (on-disk size: 0 KB)
+0004.155 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 4400 files added (on-disk size: 0 KB)
+0004.185 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 4500 files added (on-disk size: 0 KB)
+0004.215 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 4600 files added (on-disk size: 0 KB)
+0004.243 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 4700 files added (on-disk size: 0 KB)
+0004.272 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 4800 files added (on-disk size: 0 KB)
+0004.301 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 4900 files added (on-disk size: 0 KB)
+0004.329 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 5000 files added (on-disk size: 0 KB)
+0004.358 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 5100 files added (on-disk size: 0 KB)
+0004.385 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 5200 files added (on-disk size: 0 KB)
+0004.413 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 5300 files added (on-disk size: 0 KB)
+0004.443 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 5400 files added (on-disk size: 0 KB)
+0004.483 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 5500 files added (on-disk size: 0 KB)
+0004.521 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 5600 files added (on-disk size: 0 KB)
+0004.550 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 5700 files added (on-disk size: 0 KB)
+0004.581 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 5800 files added (on-disk size: 0 KB)
+0004.610 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 5900 files added (on-disk size: 0 KB)
+0004.637 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 6000 files added (on-disk size: 0 KB)
+0004.665 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 6100 files added (on-disk size: 0 KB)
+0004.698 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 6200 files added (on-disk size: 0 KB)
+0004.727 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 6300 files added (on-disk size: 0 KB)
+0004.755 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 6400 files added (on-disk size: 0 KB)
+0004.787 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 6500 files added (on-disk size: 0 KB)
+0004.814 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 6600 files added (on-disk size: 0 KB)
+0004.844 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 6700 files added (on-disk size: 0 KB)
+0004.871 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 6800 files added (on-disk size: 0 KB)
+0004.899 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 6900 files added (on-disk size: 0 KB)
+0004.927 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 7000 files added (on-disk size: 0 KB)
+0004.955 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 7100 files added (on-disk size: 0 KB)
+0004.983 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 7200 files added (on-disk size: 0 KB)
+0005.011 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 7300 files added (on-disk size: 0 KB)
+0005.058 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 7400 files added (on-disk size: 0 KB)
+0005.086 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 7500 files added (on-disk size: 0 KB)
+0005.113 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 7600 files added (on-disk size: 0 KB)
+0005.141 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.tmp: 7700 files added (on-disk size: 0 KB)
+0217.035 (0) Creating zip file manifest (backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.list-temp.tmp)
+0217.073 (0) Successfully created zip file manifest (size: 654567)
+0217.514 (0) Created plugins zip (0) - 46192 KB in 217.5 s (212.4 KB/s) (sha1: 0ba623af3f84e1784798cd2cd44246888fe2724a, sha256: 8996ef5d08f5b76649af5d3262604c7ef214f0089759da830c3ef1c8f878117c)
+0217.527 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0217.529 (0) No remote despatch: user chose no remote backup service
+0217.531 (0) Recording as successfully uploaded: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip
+0217.534 (0) Deleting zip manifest (backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip.list.tmp)
+0217.539 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0217.540 (0) Number of backup sets in history: 0; groups (db): 1
+0217.541 (0) Number of backup sets in history: 0; groups (files): 1
+0217.542 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0217.552 (0) Beginning creation of dump of themes (split every: 400 MB)
+0218.076 (0) Total entities for the zip file: 350 directories, 1027 files (0 skipped as non-modified), 30.5 MB
+0218.078 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 31223.6 KB, split: 409600 KB)
+0218.116 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0218.149 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0218.193 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0218.238 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0218.278 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0218.315 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0218.353 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0218.388 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0218.422 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0218.456 (0) Zip: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-themes.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0239.098 (0) Creating zip file manifest (backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-themes.zip.list-temp.tmp)
+0239.105 (0) Successfully created zip file manifest (size: 84679)
+0239.267 (0) Created themes zip (0) - 16555.8 KB in 21.7 s (762.6 KB/s) (sha1: 851229c064386837db0f8bd4fb2291bb81f2d41d, sha256: c25524b20cfac7e3c52fa2bd6da39ba99a38ee68e02f2d2ad328bc62fff0919a)
+0239.273 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0239.275 (0) No remote despatch: user chose no remote backup service
+0239.277 (0) Recording as successfully uploaded: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-themes.zip
+0239.280 (0) Deleting zip manifest (backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-themes.zip.list.tmp)
+0239.283 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0239.284 (0) Number of backup sets in history: 0; groups (db): 1
+0239.285 (0) Number of backup sets in history: 0; groups (files): 1
+0239.286 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0239.292 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0239.293 (0) Looking for candidates to backup in: C:\xampp\htdocs\Brainyladder/wp-content/uploads
+0239.294 (0) finding files: 2024: adding to list (1)
+0239.295 (0) finding files: elementor: adding to list (2)
+0239.297 (0) finding files: fonts: adding to list (3)
+0239.303 (0) finding files: wc-logs: adding to list (4)
+0239.305 (0) finding files: woocommerce-placeholder.png: adding to list (5)
+0239.306 (0) finding files: woocommerce_uploads: adding to list (6)
+0239.307 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0239.337 (0) Total entities for the zip file: 8 directories, 67 files (0 skipped as non-modified), 3.7 MB
+0239.339 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 3822.4 KB, split: 409600 KB)
+0239.907 (0) Creating zip file manifest (backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-uploads.zip.list-temp.tmp)
+0239.910 (0) Successfully created zip file manifest (size: 4557)
+0239.953 (0) Created uploads zip (0) - 3560.4 KB in 0.6 s (5555.2 KB/s) (sha1: 8238e9d89b5d1b5e4c1bdb8ed9420ae006f1e235, sha256: 5b5ebf107d8c52e315b870dc33b69888a5f1815bc85688ea1881c6626fc8c8ad)
+0239.961 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0239.963 (0) No remote despatch: user chose no remote backup service
+0239.966 (0) Recording as successfully uploaded: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-uploads.zip
+0239.969 (0) Deleting zip manifest (backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-uploads.zip.list.tmp)
+0239.974 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0239.976 (0) Number of backup sets in history: 0; groups (db): 1
+0239.978 (0) Number of backup sets in history: 0; groups (files): 1
+0239.980 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0239.985 (0) No backup of mu-plugins: excluded by user's options
+0239.988 (0) Beginning backup of other directories found in the content directory (index: 0)
+0239.989 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0239.990 (0) Looking for candidates to backup in: C:\xampp\htdocs\Brainyladder/wp-content
+0239.991 (0) finding files: index.php: adding to list (1)
+0239.992 (0) finding files: plugins: skipping: this is the plugins directory
+0239.993 (0) finding files: themes: skipping: this is the themes directory
+0239.994 (0) finding files: updraft: skipping: this is the updraft directory
+0239.995 (0) finding files: upgrade: skipping: excluded by options
+0239.996 (0) finding files: uploads: skipping: this is the uploads directory
+0240.001 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0240.003 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 0 KB, split: 409600 KB)
+0240.013 (0) Creating zip file manifest (backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-others.zip.list-temp.tmp)
+0240.015 (0) Successfully created zip file manifest (size: 43)
+0240.023 (0) Created others zip (0) - 0.1 KB in 0 s (6.4 KB/s) (sha1: 2e0ccb5ae8b7e7c2b549132beb9f9b91070966f4, sha256: fc90202772e3865f0e116dbfc52a2a0ce20ca633b43fffeb0074cf8f40589a9f)
+0240.028 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0240.029 (0) No remote despatch: user chose no remote backup service
+0240.031 (0) Recording as successfully uploaded: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-others.zip
+0240.033 (0) Deleting zip manifest (backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-others.zip.list.tmp)
+0240.036 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0240.037 (0) Number of backup sets in history: 0; groups (db): 1
+0240.038 (0) Number of backup sets in history: 0; groups (files): 1
+0240.039 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0240.045 (0) Saving backup status to database (elements: 8)
+0240.048 (0) Beginning creation of database dump (WordPress DB)
+0240.049 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0240.103 (0) Table wp_options: Total expected rows (via COUNT): 511
+0240.207 (0) Table wp_options: Rows added in this batch (next record: 1247): 507 (uncompressed bytes in this segment=2754844) in 0.14 seconds
+0240.221 (0) Table wp_options: finishing file(s) (2, 444.4 KB)
+0240.240 (0) Table wp_users: Total expected rows (via COUNT): 1
+0240.242 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0240.245 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1196) in 0.02 seconds
+0240.256 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0240.277 (0) Table wp_usermeta: Total expected rows (via COUNT): 29
+0240.278 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0240.283 (0) Table wp_usermeta: Rows added in this batch (next record: 29): 29 (uncompressed bytes in this segment=3930) in 0.02 seconds
+0240.294 (0) Table wp_usermeta: finishing file(s) (2, 1.7 KB)
+0240.331 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 27
+0240.334 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0240.339 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 35): 27 (uncompressed bytes in this segment=12319) in 0.04 seconds
+0240.356 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 1.8 KB)
+0240.376 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0240.380 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.02 seconds
+0240.390 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0240.409 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 3
+0240.411 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0240.415 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=700) in 0.02 seconds
+0240.426 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0240.445 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 77
+0240.447 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0240.452 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 77): 77 (uncompressed bytes in this segment=7407) in 0.02 seconds
+0240.461 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 1.3 KB)
+0240.481 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0240.485 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=634) in 0.02 seconds
+0240.495 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0240.513 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0240.516 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0240.519 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1943) in 0.02 seconds
+0240.529 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0240.547 (0) Table wp_links: Total expected rows (via COUNT): 0
+0240.551 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1027) in 0.01 seconds
+0240.560 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0240.601 (0) Table wp_postmeta: Total expected rows (approximate): 1098
+0240.620 (0) Table wp_postmeta: Rows added in this batch (next record: 1308): 1126 (uncompressed bytes in this segment=1020706) in 0.05 seconds
+0240.633 (0) Table wp_postmeta: finishing file(s) (2, 34.3 KB)
+0240.669 (0) Table wp_posts: Total expected rows (via COUNT): 212
+0240.670 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0240.686 (0) Table wp_posts: Rows added in this batch (next record: 227): 212 (uncompressed bytes in this segment=560239) in 0.05 seconds
+0240.697 (0) Table wp_posts: finishing file(s) (2, 29.6 KB)
+0240.713 (0) Table wp_term_relationships: Total expected rows (approximate): 15
+0240.718 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 19 (uncompressed bytes in this segment=957) in 0.01 seconds
+0240.727 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0240.748 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 19
+0240.750 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0240.754 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 19): 19 (uncompressed bytes in this segment=1589) in 0.02 seconds
+0240.764 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.6 KB)
+0240.784 (0) Table wp_termmeta: Total expected rows (via COUNT): 1
+0240.786 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0240.787 (0) Table wp_termmeta: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=701) in 0.02 seconds
+0240.796 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0240.814 (0) Table wp_terms: Total expected rows (via COUNT): 19
+0240.817 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0240.820 (0) Table wp_terms: Rows added in this batch (next record: 19): 19 (uncompressed bytes in this segment=1318) in 0.02 seconds
+0240.828 (0) Table wp_terms: finishing file(s) (2, 0.6 KB)
+0240.843 (0) Table wp_wc_category_lookup: Total expected rows (approximate): 0
+0240.847 (0) Table wp_wc_category_lookup: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=589) in 0.01 seconds
+0240.855 (0) Table wp_wc_category_lookup: finishing file(s) (2, 0.3 KB)
+0240.873 (0) Table wp_wc_product_meta_lookup: Total expected rows (via COUNT): 4
+0240.874 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0240.878 (0) Table wp_wc_product_meta_lookup: Rows added in this batch (next record: 152): 4 (uncompressed bytes in this segment=1652) in 0.02 seconds
+0240.887 (0) Table wp_wc_product_meta_lookup: finishing file(s) (2, 0.6 KB)
+0240.904 (0) Table wp_wc_reserved_stock: Total expected rows (approximate): 0
+0240.908 (0) Table wp_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=663) in 0.01 seconds
+0240.917 (0) Table wp_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0240.934 (0) Table wp_wc_tax_rate_classes: Total expected rows (via COUNT): 2
+0240.936 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0240.939 (0) Table wp_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=750) in 0.02 seconds
+0240.946 (0) Table wp_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0240.966 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (via COUNT): 0
+0240.969 (0) Table wp_woocommerce_order_itemmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=722) in 0.02 seconds
+0240.979 (0) Table wp_woocommerce_order_itemmeta: finishing file(s) (2, 0.4 KB)
+0240.999 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0241.000 (0) Table wp_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=749) in 0.02 seconds
+0241.010 (0) Table wp_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0241.028 (0) Table wp_e_events: Total expected rows (via COUNT): 0
+0241.032 (0) Table wp_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=511) in 0.01 seconds
+0241.041 (0) Table wp_e_events: finishing file(s) (2, 0.3 KB)
+0241.058 (0) Table wp_e_submissions: Total expected rows (via COUNT): 0
+0241.061 (0) Table wp_e_submissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1979) in 0.01 seconds
+0241.069 (0) Table wp_e_submissions: finishing file(s) (2, 0.7 KB)
+0241.084 (0) Table wp_e_submissions_actions_log: Total expected rows (via COUNT): 0
+0241.086 (0) Table wp_e_submissions_actions_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1140) in 0.01 seconds
+0241.094 (0) Table wp_e_submissions_actions_log: finishing file(s) (2, 0.5 KB)
+0241.111 (0) Table wp_e_submissions_values: Total expected rows (via COUNT): 0
+0241.113 (0) Table wp_e_submissions_values: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=673) in 0.01 seconds
+0241.125 (0) Table wp_e_submissions_values: finishing file(s) (2, 0.4 KB)
+0241.146 (0) Table wp_wc_admin_note_actions: Total expected rows (via COUNT): 100
+0241.147 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0241.152 (0) Table wp_wc_admin_note_actions: Rows added in this batch (next record: 820): 100 (uncompressed bytes in this segment=19137) in 0.02 seconds
+0241.161 (0) Table wp_wc_admin_note_actions: finishing file(s) (2, 3.1 KB)
+0241.180 (0) Table wp_wc_admin_notes: Total expected rows (via COUNT): 70
+0241.181 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0241.187 (0) Table wp_wc_admin_notes: Rows added in this batch (next record: 70): 70 (uncompressed bytes in this segment=33797) in 0.02 seconds
+0241.197 (0) Table wp_wc_admin_notes: finishing file(s) (2, 7.1 KB)
+0241.216 (0) Table wp_wc_customer_lookup: Total expected rows (via COUNT): 0
+0241.219 (0) Table wp_wc_customer_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1018) in 0.01 seconds
+0241.227 (0) Table wp_wc_customer_lookup: finishing file(s) (2, 0.5 KB)
+0241.244 (0) Table wp_wc_download_log: Total expected rows (via COUNT): 0
+0241.246 (0) Table wp_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=716) in 0.01 seconds
+0241.255 (0) Table wp_wc_download_log: finishing file(s) (2, 0.4 KB)
+0241.271 (0) Table wp_wc_order_addresses: Total expected rows (via COUNT): 0
+0241.273 (0) Table wp_wc_order_addresses: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1058) in 0.01 seconds
+0241.282 (0) Table wp_wc_order_addresses: finishing file(s) (2, 0.5 KB)
+0241.301 (0) Table wp_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0241.304 (0) Table wp_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=715) in 0.01 seconds
+0241.312 (0) Table wp_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0241.329 (0) Table wp_wc_order_operational_data: Total expected rows (via COUNT): 0
+0241.331 (0) Table wp_wc_order_operational_data: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1399) in 0.01 seconds
+0241.358 (0) Table wp_wc_order_operational_data: finishing file(s) (2, 0.6 KB)
+0241.380 (0) Table wp_wc_order_product_lookup: Total expected rows (via COUNT): 0
+0241.385 (0) Table wp_wc_order_product_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1215) in 0.02 seconds
+0241.394 (0) Table wp_wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0241.411 (0) Table wp_wc_order_stats: Total expected rows (via COUNT): 0
+0241.414 (0) Table wp_wc_order_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1192) in 0.01 seconds
+0241.425 (0) Table wp_wc_order_stats: finishing file(s) (2, 0.5 KB)
+0241.444 (0) Table wp_wc_order_tax_lookup: Total expected rows (approximate): 0
+0241.447 (0) Table wp_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=793) in 0.01 seconds
+0241.458 (0) Table wp_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0241.476 (0) Table wp_wc_orders: Total expected rows (via COUNT): 0
+0241.478 (0) Table wp_wc_orders: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1417) in 0.01 seconds
+0241.489 (0) Table wp_wc_orders: finishing file(s) (2, 0.5 KB)
+0241.508 (0) Table wp_wc_orders_meta: Total expected rows (via COUNT): 0
+0241.512 (0) Table wp_wc_orders_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=702) in 0.02 seconds
+0241.525 (0) Table wp_wc_orders_meta: finishing file(s) (2, 0.4 KB)
+0241.542 (0) Table wp_wc_product_attributes_lookup: Total expected rows (approximate): 0
+0241.546 (0) Table wp_wc_product_attributes_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=831) in 0.01 seconds
+0241.556 (0) Table wp_wc_product_attributes_lookup: finishing file(s) (2, 0.4 KB)
+0241.574 (0) Table wp_wc_product_download_directories: Total expected rows (via COUNT): 2
+0241.576 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0241.579 (0) Table wp_wc_product_download_directories: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=891) in 0.02 seconds
+0241.589 (0) Table wp_wc_product_download_directories: finishing file(s) (2, 0.5 KB)
+0241.606 (0) Table wp_wc_rate_limits: Total expected rows (via COUNT): 0
+0241.610 (0) Table wp_wc_rate_limits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=667) in 0.01 seconds
+0241.619 (0) Table wp_wc_rate_limits: finishing file(s) (2, 0.4 KB)
+0241.636 (0) Table wp_wc_webhooks: Total expected rows (via COUNT): 0
+0241.639 (0) Table wp_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1071) in 0.01 seconds
+0241.647 (0) Table wp_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0241.668 (0) Table wp_woocommerce_api_keys: Total expected rows (via COUNT): 0
+0241.669 (0) Table wp_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=873) in 0.02 seconds
+0241.680 (0) Table wp_woocommerce_api_keys: finishing file(s) (2, 0.4 KB)
+0241.696 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 0
+0241.698 (0) Table wp_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=835) in 0.01 seconds
+0241.707 (0) Table wp_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0241.723 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0241.725 (0) Table wp_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1410) in 0.01 seconds
+0241.734 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0241.753 (0) Table wp_woocommerce_log: Total expected rows (via COUNT): 0
+0241.755 (0) Table wp_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=642) in 0.01 seconds
+0241.764 (0) Table wp_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0241.780 (0) Table wp_woocommerce_order_items: Total expected rows (via COUNT): 0
+0241.783 (0) Table wp_woocommerce_order_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=677) in 0.01 seconds
+0241.791 (0) Table wp_woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0241.807 (0) Table wp_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0241.809 (0) Table wp_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=744) in 0.01 seconds
+0241.819 (0) Table wp_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0241.837 (0) Table wp_woocommerce_sessions: Total expected rows (via COUNT): 1
+0241.838 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0241.841 (0) Table wp_woocommerce_sessions: Rows added in this batch (next record: 10): 1 (uncompressed bytes in this segment=4144) in 0.02 seconds
+0241.851 (0) Table wp_woocommerce_sessions: finishing file(s) (2, 1.4 KB)
+0241.870 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 1
+0241.872 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0241.874 (0) Table wp_woocommerce_shipping_zone_locations: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=907) in 0.02 seconds
+0241.882 (0) Table wp_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0241.901 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 1
+0241.903 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0241.905 (0) Table wp_woocommerce_shipping_zone_methods: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=849) in 0.02 seconds
+0241.913 (0) Table wp_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0241.933 (0) Table wp_woocommerce_shipping_zones: Total expected rows (via COUNT): 1
+0241.935 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0241.937 (0) Table wp_woocommerce_shipping_zones: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=688) in 0.01 seconds
+0241.944 (0) Table wp_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0241.961 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 0
+0241.964 (0) Table wp_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=786) in 0.01 seconds
+0241.974 (0) Table wp_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0241.992 (0) Table wp_woocommerce_tax_rates: Total expected rows (via COUNT): 0
+0241.994 (0) Table wp_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1142) in 0.01 seconds
+0242.004 (0) Table wp_woocommerce_tax_rates: finishing file(s) (2, 0.4 KB)
+0242.006 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\Brainyladder/wp-content/updraft/backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db.gz (line 1925, C:\xampp\htdocs\Brainyladder\wp-content\plugins\updraftplus\backup.php)
+0242.008 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_options.table.tmpr1248.gz (1/54/fopen): adding to final database dump
+0242.026 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_options.table.gz (2/54/fopen): adding to final database dump
+0242.028 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_users.table.tmpr2.gz (3/54/fopen): adding to final database dump
+0242.029 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_users.table.gz (4/54/fopen): adding to final database dump
+0242.031 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_usermeta.table.tmpr30.gz (5/54/fopen): adding to final database dump
+0242.033 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_usermeta.table.gz (6/54/fopen): adding to final database dump
+0242.035 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_actionscheduler_actions.table.tmpr36.gz (7/54/fopen): adding to final database dump
+0242.037 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_actionscheduler_actions.table.gz (8/54/fopen): adding to final database dump
+0242.039 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/54/fopen): adding to final database dump
+0242.040 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_actionscheduler_claims.table.gz (10/54/fopen): adding to final database dump
+0242.041 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_actionscheduler_groups.table.tmpr4.gz (11/54/fopen): adding to final database dump
+0242.043 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_actionscheduler_groups.table.gz (12/54/fopen): adding to final database dump
+0242.044 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_actionscheduler_logs.table.tmpr78.gz (13/54/fopen): adding to final database dump
+0242.045 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_actionscheduler_logs.table.gz (14/54/fopen): adding to final database dump
+0242.046 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_commentmeta.table.tmpr0.gz (15/54/fopen): adding to final database dump
+0242.049 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_commentmeta.table.gz (16/54/fopen): adding to final database dump
+0242.051 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_comments.table.tmpr2.gz (17/54/fopen): adding to final database dump
+0242.053 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_comments.table.gz (18/54/fopen): adding to final database dump
+0242.054 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_links.table.tmpr0.gz (19/54/fopen): adding to final database dump
+0242.055 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_links.table.gz (20/54/fopen): adding to final database dump
+0242.056 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_postmeta.table.tmpr1309.gz (21/54/fopen): adding to final database dump
+0242.059 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_postmeta.table.gz (22/54/fopen): adding to final database dump
+0242.060 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_posts.table.tmpr228.gz (23/54/fopen): adding to final database dump
+0242.062 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_posts.table.gz (24/54/fopen): adding to final database dump
+0242.063 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_term_relationships.table.tmpr100001.gz (25/54/fopen): adding to final database dump
+0242.066 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_term_relationships.table.gz (26/54/fopen): adding to final database dump
+0242.068 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_term_taxonomy.table.tmpr20.gz (27/54/fopen): adding to final database dump
+0242.070 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_term_taxonomy.table.gz (28/54/fopen): adding to final database dump
+0242.071 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_termmeta.table.tmpr2.gz (29/54/fopen): adding to final database dump
+0242.072 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_termmeta.table.gz (30/54/fopen): adding to final database dump
+0242.073 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_terms.table.tmpr20.gz (31/54/fopen): adding to final database dump
+0242.074 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_terms.table.gz (32/54/fopen): adding to final database dump
+0242.075 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_category_lookup.table.tmpr1001.gz (33/54/fopen): adding to final database dump
+0242.077 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_category_lookup.table.gz (34/54/fopen): adding to final database dump
+0242.078 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_product_meta_lookup.table.tmpr153.gz (35/54/fopen): adding to final database dump
+0242.079 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_product_meta_lookup.table.gz (36/54/fopen): adding to final database dump
+0242.080 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_reserved_stock.table.tmpr1.gz (37/54/fopen): adding to final database dump
+0242.083 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_reserved_stock.table.gz (38/54/fopen): adding to final database dump
+0242.085 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_tax_rate_classes.table.tmpr3.gz (39/54/fopen): adding to final database dump
+0242.087 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_tax_rate_classes.table.gz (40/54/fopen): adding to final database dump
+0242.088 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_order_itemmeta.table.tmpr0.gz (41/54/fopen): adding to final database dump
+0242.089 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_order_itemmeta.table.gz (42/54/fopen): adding to final database dump
+0242.090 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_payment_tokenmeta.table.tmpr0.gz (43/54/fopen): adding to final database dump
+0242.091 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_payment_tokenmeta.table.gz (44/54/fopen): adding to final database dump
+0242.092 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_e_events.table.tmpr0.gz (45/54/fopen): adding to final database dump
+0242.093 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_e_events.table.gz (46/54/fopen): adding to final database dump
+0242.095 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_e_submissions.table.tmpr0.gz (47/54/fopen): adding to final database dump
+0242.096 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_e_submissions.table.gz (48/54/fopen): adding to final database dump
+0242.097 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_e_submissions_actions_log.table.tmpr0.gz (49/54/fopen): adding to final database dump
+0242.100 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_e_submissions_actions_log.table.gz (50/54/fopen): adding to final database dump
+0242.102 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_e_submissions_values.table.tmpr0.gz (51/54/fopen): adding to final database dump
+0242.104 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_e_submissions_values.table.gz (52/54/fopen): adding to final database dump
+0242.105 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_admin_note_actions.table.tmpr821.gz (53/54/fopen): adding to final database dump
+0242.106 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_admin_note_actions.table.gz (54/54/fopen): adding to final database dump
+0242.107 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_admin_notes.table.tmpr71.gz (55/54/fopen): adding to final database dump
+0242.109 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_admin_notes.table.gz (56/54/fopen): adding to final database dump
+0242.110 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_customer_lookup.table.tmpr0.gz (57/54/fopen): adding to final database dump
+0242.111 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_customer_lookup.table.gz (58/54/fopen): adding to final database dump
+0242.112 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_download_log.table.tmpr0.gz (59/54/fopen): adding to final database dump
+0242.114 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_download_log.table.gz (60/54/fopen): adding to final database dump
+0242.117 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_order_addresses.table.tmpr0.gz (61/54/fopen): adding to final database dump
+0242.119 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_order_addresses.table.gz (62/54/fopen): adding to final database dump
+0242.120 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_order_coupon_lookup.table.tmpr1.gz (63/54/fopen): adding to final database dump
+0242.121 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_order_coupon_lookup.table.gz (64/54/fopen): adding to final database dump
+0242.122 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_order_operational_data.table.tmpr0.gz (65/54/fopen): adding to final database dump
+0242.124 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_order_operational_data.table.gz (66/54/fopen): adding to final database dump
+0242.125 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_order_product_lookup.table.tmpr0.gz (67/54/fopen): adding to final database dump
+0242.126 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_order_product_lookup.table.gz (68/54/fopen): adding to final database dump
+0242.127 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_order_stats.table.tmpr0.gz (69/54/fopen): adding to final database dump
+0242.128 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_order_stats.table.gz (70/54/fopen): adding to final database dump
+0242.129 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_order_tax_lookup.table.tmpr1.gz (71/54/fopen): adding to final database dump
+0242.131 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_order_tax_lookup.table.gz (72/54/fopen): adding to final database dump
+0242.133 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_orders.table.tmpr0.gz (73/54/fopen): adding to final database dump
+0242.135 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_orders.table.gz (74/54/fopen): adding to final database dump
+0242.137 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_orders_meta.table.tmpr0.gz (75/54/fopen): adding to final database dump
+0242.139 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_orders_meta.table.gz (76/54/fopen): adding to final database dump
+0242.140 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_product_attributes_lookup.table.tmpr1.gz (77/54/fopen): adding to final database dump
+0242.142 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_product_attributes_lookup.table.gz (78/54/fopen): adding to final database dump
+0242.143 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_product_download_directories.table.tmpr3.gz (79/54/fopen): adding to final database dump
+0242.145 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_product_download_directories.table.gz (80/54/fopen): adding to final database dump
+0242.146 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_rate_limits.table.tmpr0.gz (81/54/fopen): adding to final database dump
+0242.149 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_rate_limits.table.gz (82/54/fopen): adding to final database dump
+0242.152 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_webhooks.table.tmpr0.gz (83/54/fopen): adding to final database dump
+0242.153 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_wc_webhooks.table.gz (84/54/fopen): adding to final database dump
+0242.154 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_api_keys.table.tmpr0.gz (85/54/fopen): adding to final database dump
+0242.155 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_api_keys.table.gz (86/54/fopen): adding to final database dump
+0242.156 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_attribute_taxonomies.table.tmpr0.gz (87/54/fopen): adding to final database dump
+0242.157 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_attribute_taxonomies.table.gz (88/54/fopen): adding to final database dump
+0242.158 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_downloadable_product_permissions.table.tmpr0.gz (89/54/fopen): adding to final database dump
+0242.159 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (90/54/fopen): adding to final database dump
+0242.161 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_log.table.tmpr0.gz (91/54/fopen): adding to final database dump
+0242.162 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_log.table.gz (92/54/fopen): adding to final database dump
+0242.163 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_order_items.table.tmpr0.gz (93/54/fopen): adding to final database dump
+0242.166 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_order_items.table.gz (94/54/fopen): adding to final database dump
+0242.168 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_payment_tokens.table.tmpr0.gz (95/54/fopen): adding to final database dump
+0242.170 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_payment_tokens.table.gz (96/54/fopen): adding to final database dump
+0242.173 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_sessions.table.tmpr11.gz (97/54/fopen): adding to final database dump
+0242.174 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_sessions.table.gz (98/54/fopen): adding to final database dump
+0242.175 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_shipping_zone_locations.table.tmpr2.gz (99/54/fopen): adding to final database dump
+0242.178 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_shipping_zone_locations.table.gz (100/54/fopen): adding to final database dump
+0242.179 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_shipping_zone_methods.table.tmpr2.gz (101/54/fopen): adding to final database dump
+0242.181 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_shipping_zone_methods.table.gz (102/54/fopen): adding to final database dump
+0242.183 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_shipping_zones.table.tmpr2.gz (103/54/fopen): adding to final database dump
+0242.186 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_shipping_zones.table.gz (104/54/fopen): adding to final database dump
+0242.187 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_tax_rate_locations.table.tmpr0.gz (105/54/fopen): adding to final database dump
+0242.188 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_tax_rate_locations.table.gz (106/54/fopen): adding to final database dump
+0242.189 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_tax_rates.table.tmpr0.gz (107/54/fopen): adding to final database dump
+0242.190 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db-table-wp_woocommerce_tax_rates.table.gz (108/54/fopen): adding to final database dump
+0242.225 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db.gz: finished writing out complete database file (544.5 KB)
+0242.255 (0) Total database tables backed up: 54 (backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db.gz, size: 557688, sha1: ab5b92b0bd466ba523a393a8b8080ddee6615273, sha256: 6c66614432ac13b6ce761b43c7a3b504d75de05e62e9baf52da6a87be63926ea)
+0242.261 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-plugins.zip: plugins: This file has already been successfully uploaded
+0242.262 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-themes.zip: themes: This file has already been successfully uploaded
+0242.262 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-uploads.zip: uploads: This file has already been successfully uploaded
+0242.263 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-others.zip: others: This file has already been successfully uploaded
+0242.266 (0) backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db.gz: db: This file has not yet been successfully uploaded: will queue
+0242.267 (0) Saving backup history. Total backup size: 65.3 MB
+0242.270 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0242.273 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0242.274 (0) No remote despatch: user chose no remote backup service
+0242.275 (0) Recording as successfully uploaded: backup_2024-05-12-0613_Brainy_Ladder_41d99d0631da-db.gz
+0242.278 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0242.279 (0) Number of backup sets in history: 1; groups (db): 1
+0242.280 (0) Examining (for databases) backup set with group_id=0, nonce=41d99d0631da, datestamp=1715494391 (May 12 2024 06:13:11)
+0242.281 (0) This backup set is the backup set just made, so will not be deleted.
+0242.282 (0) Number of backup sets in history: 1; groups (files): 1
+0242.284 (0) Examining (for files) backup set with nonce=41d99d0631da, datestamp=1715494391 (May 12 2024 06:13:11)
+0242.284 (0) This backup set is the backup set just made, so will not be deleted.
+0242.286 (0) This backup set is the backup set just made, so will not be deleted.
+0242.286 (0) This backup set is the backup set just made, so will not be deleted.
+0242.286 (0) This backup set is the backup set just made, so will not be deleted.
+0242.286 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0242.287 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0242.289 (0) Resume backup (41d99d0631da, 0): finish run
+0242.293 (0) Decremented the semaphore (fd) by 1
+0242.296 (0) Semaphore (fd) unlocked
+0242.300 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0242.305 (0) No email will/can be sent - the user has not configured an email address.
+0242.306 (0) The backup succeeded and is now complete
